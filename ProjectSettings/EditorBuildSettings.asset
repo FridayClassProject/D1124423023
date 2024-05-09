@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Assets/Scenes/D1124423008.unity
+    guid: 92c13712077273f4e94ccd1e5d1bf4fb
+  - enabled: 0
+    path: Assets/Assets/Scenes/D1124423017.unity
+    guid: 7f4d226d88564f344ad671ff8471c318
+  - enabled: 1
+    path: Assets/Assets/New Folder/Assets/Scenes/D1124423030.unity
+    guid: 810d981e3f1696a42a91b519d9ffe179
+  - enabled: 1
+    path: Assets/Assets/New Folder/Assets/Scenes/D1124423023.unity
+    guid: cad705ddf994d26409930d31584aefe1
+  - enabled: 0
+    path: Assets/Assets/Scenes/3017.unity
+    guid: 4818cd78322c56c46a017a7addef7268
+  - enabled: 1
+    path: Assets/Assets/New Folder/Assets/Scenes/BOOYIPE.unity
+    guid: beca121dfcbeba9499039c76c178b704
+  m_configObjects: {}
